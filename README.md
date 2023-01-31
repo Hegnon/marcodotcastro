@@ -8,7 +8,7 @@ class Programmer
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="[https://linkedin.com/in/marcodotcastro](https://www.linkedin.com/in/h%C3%A9gnon-henrique-dutra-delaqua-67253b116/)" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+    <a href="[https://www.linkedin.com/in/h%C3%A9gnon-henrique-dutra-delaqua-67253b116/]" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
     <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
     <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
     <a href="https://t.me/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="marcodotcastro" height="30" width="40"/></a>
@@ -21,21 +21,6 @@ class Programmer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-<h3>Open Source Projects</h3>
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	    <td><b>Projects</b></td>
-	    <td><b>Skills</b></td>
-            <td><b>Stars</b></td>
-            <td><b>Forks</b></td>
-            <td><b>Issues</b></td>
-            <td><b>Pull requests</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
 		<td>Business / Developer</td>
